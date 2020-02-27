@@ -1,0 +1,1 @@
+"# KATA-remove-string-spaces" 
